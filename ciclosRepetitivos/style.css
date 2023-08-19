@@ -1,0 +1,9 @@
+.divPrincipal{
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 115%;
+    align-items: center;
+}
+.divPrincipal h1{
+    margin: 0%;
+}
